@@ -1,0 +1,1 @@
+Program made for ICS4U using Java and a weather API library for Open Weaher Map. Project was submitted with a few bugs and missing a few features. Will be updated with new features but currently gives weather data for a city entered manually in the code and not on the program itself.
